@@ -121,7 +121,7 @@ Setting `fp16=False` ensures compatibility with CPU-only environments such as Gi
 ## License
 
 This project is open-source and intended for educational and research use.<br>
-All audio used belongs to the public domain (Orlando: A Biography by Virginia Woolf).<br>
+All audio used belongs to the public domain (Orlando: A Biography by Virginia Woolf) from Internet Archive at https://archive.org/.<br>
 Source link: https://archive.org/details/orlandoabiography2_2412_librivox/orlando_04_woolf_128kb.mp3
 
 ## End
